@@ -1,0 +1,4 @@
+rootProject.name = "Priceline Test"
+include ':app'
+include ':network'
+include ':common'
